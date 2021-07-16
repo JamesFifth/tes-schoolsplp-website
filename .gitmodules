@@ -1,0 +1,3 @@
+[submodule "themes/report"]
+	path = themes/report
+	url = https://github.com/Vimux/Binario.git
